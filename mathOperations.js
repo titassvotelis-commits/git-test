@@ -1,3 +1,3 @@
 function calculate(a, b) {
-    return a - b; // Subtraction
+    return a ** b; // Multiplication
 }
